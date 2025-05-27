@@ -1,4 +1,3 @@
-```markdown
 # 🛒 Walmart Super Marketing Dashboard
 
 This repository contains a comprehensive **Power BI Dashboard** that analyzes Walmart's superstore sales data. The dashboard provides deep insights into key performance metrics such as total sales, profits, quantity sold, and geographic performance. It is designed for business users to track KPIs and make informed marketing and sales decisions.
